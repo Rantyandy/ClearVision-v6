@@ -16,8 +16,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #FF0000; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #FFA500; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/455886b2-bff1-4757-a195-e89f97a0b5e0/d7bkvdx-4b3a2535-d7dd-4cab-80a2-da7b57fb7084.jpg/v1/fill/w_1280,h_720,q_75,strp/iron_twins_by_kuldarleement_d7bkvdx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNDU1ODg2YjItYmZmMS00NzU3LWExOTUtZTg5Zjk3YTBiNWUwXC9kN2JrdmR4LTRiM2EyNTM1LWQ3ZGQtNGNhYi04MGEyLWRhN2I1N2ZiNzA4NC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.zXnkrX5t1ksga4RGI2fF4x4P97CQOMG7Rn1myaSR8dw); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
